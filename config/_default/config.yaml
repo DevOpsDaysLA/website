@@ -2,3 +2,5 @@
 languageCode: en-us
 title: DevOps Day LA
 theme: "PaperMod"
+
+enableRobotsTXT: true
