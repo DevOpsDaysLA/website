@@ -28,9 +28,7 @@ jobs:
           hugo-version: '0.86.1'
           # extended: true
       - name: Build
-        env:
-          HUGE_ENVIRONMENT: gh-pages
-        run: hugo --minify
+        run: hugo --minify --environment gh-pages
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/trunk' }}
