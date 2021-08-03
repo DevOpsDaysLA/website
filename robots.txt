@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://devopsdaysla.github.io/website/sitemap.xml
