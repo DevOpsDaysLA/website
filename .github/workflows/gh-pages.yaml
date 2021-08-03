@@ -28,6 +28,8 @@ jobs:
           hugo-version: '0.86.1'
           # extended: true
       - name: Build
+        env:
+          HUGE_ENVIRONMENT: gh-pages
         run: hugo --minify
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
