@@ -2,44 +2,4 @@
 defaultTheme: light
 disableThemeToggle: true
 homeInfoParams:
-    Title: "DevOps Day Los Angeles - March 4, 2022"
-    Content: |-2
-      ![DevOps Day LA logo]()
-
-      &nbsp;
-
-      DevOps Day LA is Southern California's only annual conference focused on the practice of DevOps - a proven, joint approach that emphasizes the need for collaboration between the Development (Dev) and Operations/IT (Ops) teams within an organization to continually deliver high quality solutions.The event offers opportunities to learn and share experiences on topics such as...
-
-      &nbsp;
-
-      • Automation
-
-      • Testing
-
-      • Security
-
-      • Organizational Culture
-
-      • Continuous Integration and Deployment (CI/CD)
-
-      • Implementing DevOps practices
-
-      • Career Development
-
-      &nbsp;
-
-      The conference provides a relaxed, casual, and diverse environment where experienced professionals, evangelists, agile practitioners, developers, job seekers, business executives, educators, students, and curiosity seekers can connect and attend talks on current topics. DevOpsDayLA sponsors offer job opportunities, demonstrations of the latest tools, and world class service offerings to facilitate organizations' DevOps journey.
-
-      &nbsp;
-
-      DevOpsDay LA is presented in cooperation with the Southern California Linux Expo (SCALE). DevOpsDayLA will be held on the Thursday and Friday of SCALE 19x. Access to DevOpsDayLA is available with any level of SCALE registration, including the expo only pass ($20) and the full access pass ($85)
-
-      &nbsp;
-
-      • Expo Only: The expo only pass will provide you with access to DevOpsDayLA, exhibitor area, and evening social activities.
-
-      • Full Access: The full access pass will provide with access to all events
-
-      &nbsp;
-
-      Registration will be available online via the [SCALE website](https://www.socallinuxexpo.org).
+    Title: DevOps Day Los Angeles
