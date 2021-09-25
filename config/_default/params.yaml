@@ -1,6 +1,7 @@
 ---
 defaultTheme: dark
 disableThemeToggle: true
+hideFooter: true
 homeInfoParams:
     content: '---'
 
