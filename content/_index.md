@@ -1,9 +1,9 @@
 ---
 images: ["images/DevOpsDaysLA.svg"]
 ---
-## Coming March 4, 2022
 
 ![Logo](images/DevOpsDaysLA.svg#center)
+<div style="font-size: 26px; font-weight: bold; text-align: center;">Coming March 4, 2022</div>
 
 ## About Us
 

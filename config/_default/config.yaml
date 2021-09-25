@@ -10,3 +10,8 @@ menu:
   main:
     - name: Registration
       url: "https://register.socallinuxexpo.org/"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
