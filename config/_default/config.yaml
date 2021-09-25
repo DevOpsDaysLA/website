@@ -5,3 +5,8 @@ title: DevOps Day LA
 theme: "PaperMod"
 
 enableRobotsTXT: true
+
+menu:
+  main:
+    - name: Registration
+      url: "https://register.socallinuxexpo.org/"
