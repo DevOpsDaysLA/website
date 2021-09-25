@@ -2,4 +2,10 @@
 defaultTheme: dark
 disableThemeToggle: true
 homeInfoParams:
-    Title: DevOps Day Los Angeles
+    content: '---'
+
+socialIcons:
+  - name: "Discord"
+    url: "https://discord.gg/6C8vXWkQ"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/groups/13998392/"
