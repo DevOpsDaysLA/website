@@ -10,6 +10,8 @@ menu:
   main:
     - name: Registration
       url: "https://register.socallinuxexpo.org/"
+    - name: CFP
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform"
 
 markup:
   goldmark:
