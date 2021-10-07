@@ -9,11 +9,24 @@ enableRobotsTXT: false
 menu:
   main:
     - name: Registration
-      url: "https://register.socallinuxexpo.org/"
+      url: "#registration"
+      weight: 10
     - name: CFP
       url: "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform"
+      weight: 20
+    - name: Sponsor
+      url: "https://devopsdays.org/events/2022-los-angeles/sponsor/"
+      weight: 30
+    - name: Volunteer
+      url: "https://devopsdays.org/events/2022-los-angeles/volunteer/"
+      weight: 40
+    - name: About Us
+      url: "#about-us"
+      weight: 100
 
 markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      footnote: true
