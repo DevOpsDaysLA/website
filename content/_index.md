@@ -1,7 +1,6 @@
 ---
-title: SSS
-author: Los Angeles DevOps
-description: "The Los Angeles DevOps Days landing page."
+author: Los Angeles DevOps Days
+description: "Los Angeles' premiere DevOps conference."
 images: ["images/DevOpsDaysLA.svg"]
 ---
 
