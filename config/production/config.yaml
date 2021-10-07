@@ -1,2 +1,8 @@
 ---
 baseURL: https://www.devopsdaysla.com
+
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
