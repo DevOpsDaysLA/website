@@ -10,7 +10,7 @@ images: ["images/DevOpsDaysLA.svg"]
 
 ## About Us
 
-We are proud to announce the 10th Annual **DevOpsDaysLA**, will be held Friday, March 4, 2022. **DevOpsDaysLA** is an anual event held in Southern California. The conference is volunteer-organized and dedicated to the DevOps community.**DevOpsDaysLA** is presented in cooperation with the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/19x/devops-day-la) ([SCALE](https://www.socallinuxexpo.org/scale/19x/devops-day-la)).
+We are proud to announce the 10th Annual **DevOpsDaysLA** will be held Friday, March 4, 2022. **DevOpsDaysLA** is an anual event held in Southern California. The conference is volunteer-organized and dedicated to the DevOps community.**DevOpsDaysLA** is presented in cooperation with the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/19x/devops-day-la) ([SCALE](https://www.socallinuxexpo.org/scale/19x/devops-day-la)).
 
 {{< figure alt="DevOps Loop" align="center" width="50%" src="images/devops-loop.svg" >}}
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.<span title='Loukides, Mike (7 June 2012). "What is DevOps?", http://radar.oreilly.com/2012/06/what-is-devops.html. O&rsquo;Reilly Media)' style='font-size: 50%; vertical-align: super'>1</span>
