@@ -1,8 +1,12 @@
 ---
+title: SSS
+author: Los Angeles DevOps
+description: "The Los Angeles DevOps Days landing page."
 images: ["images/DevOpsDaysLA.svg"]
 ---
 
 ![Logo](images/DevOpsDaysLA.svg#center)
+<h1 style="text-align: center;">Los Angeles DevOps Days</h1>
 <div style="font-size: 26px; font-weight: bold; text-align: center;">Coming March 4, 2022</div>
 
 ## About Us
