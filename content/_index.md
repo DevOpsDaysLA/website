@@ -1,10 +1,11 @@
 ---
 author: Los Angeles DevOps Days
-description: "Los Angeles' premiere DevOps conference."
-images: ["images/DevOpsDaysLA.svg"]
+description: Los Angeles' premiere DevOps conference.
+images: [images/DevOpsDaysLA.svg]
 ---
 
 ![Logo](images/DevOpsDaysLA.svg#center)
+
 <h1 style="text-align: center;">Los Angeles DevOps Days</h1>
 <div style="font-size: 26px; font-weight: bold; text-align: center;">Coming March 4, 2022</div>
 
