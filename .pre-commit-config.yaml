@@ -11,6 +11,7 @@ repos:
       - id: fix-byte-order-marker
       - id: mixed-line-ending
       - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
       - id: no-commit-to-branch
         # args: ['-b trunk']
   - repo: https://github.com/alessandrojcm/commitlint-pre-commit-hook
@@ -19,3 +20,7 @@ repos:
       - id: commitlint
         stages: [commit-msg]
         additional_dependencies: ['@commitlint/config-conventional']
+  - repo: https://github.com/rhysd/actionlint
+    rev: v1.6.8
+    hooks:
+      - id: actionlint-docker
