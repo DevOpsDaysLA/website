@@ -36,6 +36,8 @@ In the workshops, you will get hands on experience with the following topics:
 
 More information around registration will be available shortly!
 
+If a workshop is something that sounds interesting to you, please leave a response [here](https://forms.gle/k3Mx8kQxbGA5df2EA) - Thanks!
+
 ## Registration
 
 Access to **DevOpsDaysLA** is available with any level of [SCALE](https://www.socallinuxexpo.org/scale/19x/devops-day-la) [registration](https://register.socallinuxexpo.org/):
