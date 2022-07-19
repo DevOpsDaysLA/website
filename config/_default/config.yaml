@@ -9,7 +9,7 @@ enableRobotsTXT: false
 menu:
   main:
     - name: Registration
-      url: "#registration"
+      url: "https://register.socallinuxexpo.org/reg6/"
       weight: 10
     - name: CFP
       url: "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform"
