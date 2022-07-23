@@ -25,8 +25,8 @@ Time | Talk | Title | Speaker | Category |
 09:00 | **Registration, Breakfast, Sponsors** |  |  |  |
 | 10:00 - 10:45 | Talk 1 (30-45m) ✨ | The Journey From DevOps to Cloud Engineering | Matty Stratton | DevOps Practices |
 | 11:00 - 11:45 | Talk 2 (30-45m) ✨ | Establishing developer productivity foundations during a migration | Hannah Henderson | DevOps Practices |
-| 12:00 - 01:30  | **Lunch** |  |  |  |
-| 01:30 - 01:45 | Lightning Talk 1 ⚡ | Mentorship, or How we rebuild civilisation from scratch | Jeremy Meiss | Career / Hiring |
+| 12:00 - 01:15  | **Lunch** |  |  |  |
+| 01:15 - 01:45 | Lightning Talk 1 ⚡ | Mentorship, or How we rebuild civilisation from scratch | Jeremy Meiss | Career / Hiring |
 | 01:45 - 02:00 | Lightning Talk 2 ⚡ | Promoted From Dev to Team Lead: 8 Things They Didn't Tell Me | Dan Lines | Culture |
 | 02:00 - 02:15 | Lightning Talk 3 ⚡ | Enabling Branch Deployments Through IssueOps and GitHub Actions | Grant Birkinbine | DevOps Practices / Tooltalk |
 | 02:30 - 03:15 | Talk 4 (30-45m) ✨ | Disney Global SRE - Creating Digital Magic with SRE | Brian Scott, Jay Mendrano, Justice London | DevOps Practices |
